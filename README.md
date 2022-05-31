@@ -1,1 +1,2 @@
-# assignment1_JS_COMP2068
+## Theme: **Music**
+We have chosen this topic due to the sizeable amount of songs we are listening to. You can hardly find a person who is not listening to music at all. This topic is relatable almost to every person. We are planning to store the artists, albums, songs, genres and music labels in the database. People can add their favourite songs, adding all of the possible details they might need to share their favourite songs with others.
