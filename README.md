@@ -29,3 +29,22 @@ We have chosen this topic due to the sizeable amount of songs we are listening t
 
 ###### Screenshot of Songs 3/3
 ![image](https://user-images.githubusercontent.com/77755876/171312644-6518a205-dee3-42c1-892e-5e517e0b4d4b.png)
+
+###### Screenshot of creation of a multiple data entry in a collection 
+![image](https://user-images.githubusercontent.com/77804360/171312752-0ef5ded5-88a1-47d2-93ac-ab916f78c8ee.png)
+
+###### Screenshot of reading a record by passing a field’s value using FindOneListingByName() function
+![image](https://user-images.githubusercontent.com/77804360/171312992-c5214a06-55cd-478d-a42d-91a740c51777.png)
+
+###### Screenshot of updating an existing record using the upsert functionality
+![image](https://user-images.githubusercontent.com/77804360/171313206-70af4bbf-7b26-4c3e-a01e-3a87c7d31228.png)
+
+###### Screenshot of deleting records by date – e.g., deleteListingsScrapedBeforeDate()
+![image](https://user-images.githubusercontent.com/77804360/171313359-c764b14a-fded-4180-bea3-239ad27341fa.png)
+
+
+
+
+
+
+
